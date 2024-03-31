@@ -36,9 +36,9 @@ module.exports = {
   //_________________________________________________________________________________________________________________________________
   STICKER_DATA: "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️",
   //_________________________________________________________________________________________________________________________________
-  WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome To @gname Total Members: @count",
+  WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome To @gname Total Members SUPPORT US BY SUBSCRIBE YOUTUBE CHANNEL. www.youtube.com/mrdevelopershahzada: @count",
   //_________________________________________________________________________________________________________________________________
-  GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It Was Nice Seeing you",
+  GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It Was Nice Seeing you SUPPORT US BY SUBSCRIBE YOUTUBE CHANNEL. www.youtube.com/mrdevelopershahzada",
   //_________________________________________________________________________________________________________________________________
   DATABASE_URL: DATABASE_URL,
   //_________________________________________________________________________________________________________________________________
